@@ -4,7 +4,7 @@ metadata:
   name: boardgame-ssvc
 spec:
   selector:
-    app: tetris
+    app: boardgame
   ports:
     - protocol: TCP
       port: 8080
